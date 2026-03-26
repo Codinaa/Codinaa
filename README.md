@@ -2,7 +2,7 @@
 
 **Desenvolvedora FullStack**
 
-Olá! Sou a Letícia, técnica em informática pelo SENAC (2024) e acadêmica de Engenharia de Software pela UNINTER. Entusiasta do mundo tech com foco em Desenvolvimento Web, Banco de Dados e Lógica de Programação. Residente em São Paulo, Brasil.
+Olá! Sou a Letícia, técnica em informática pelo SENAC (2024) e acadêmica de Engenharia de Software pela UNINTER. Entusiasta do mundo tech com foco em Desenvolvimento Web, Banco de Dados e Lógica de Programação.
 
 ---
 
